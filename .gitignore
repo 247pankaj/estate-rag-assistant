@@ -2,3 +2,4 @@ env
 .env
 estate_rag_assistant.egg-info/
 notebook
+.DS_Store
