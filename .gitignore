@@ -5,3 +5,5 @@ notebook
 .DS_Store
 logs/
 */__pycache__/
+data/
+src/*/__pycache__/
