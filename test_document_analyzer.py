@@ -4,7 +4,7 @@ from src.document_analyzer.data_analysis import EstateDocumentAnalyzer
 from core.estate_exception import EstateRAGException
 
 # Path to the estate PDF you want to test
-PDF_PATH = r"/Users/pankaj/Desktop/AI/estate-rag-assistant/data/General provisions - Dutch rental agreement.pdf"
+PDF_PATH = r"/Users/pankaj/Desktop/AI/estate-rag-assistant/data/Model-C-EN-15072024-Pararius.pdf"
 
 # Dummy file wrapper to simulate uploaded file
 class DummyFile:
