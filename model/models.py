@@ -33,4 +33,5 @@ class PromptType(str, Enum):
     """
     Enum for prompt types used in EstateRAG Assistant.
     """
-    ESTATE_DOCUMENT_ANALYSIS = "estate_document_analysis"
+    ESTATE_DOCUMENT_ANALYSIS = "estate_document_analysis",
+    ESTATE_DOCUMENT_COMPARISON="estate_document_comparison"
